@@ -16,5 +16,5 @@ git pull
 # ถ้าไม่ชนกัน git push 
 # ถ้าชนก็เลือกว่าจะใช้ของใคร incoming คือคนที่ push ก่อน (pull ล่าสุด) / current คือของเรา / both คือ ยำรวม
 git push
-
+nononoonono
 Sun 8 Jun 2025
